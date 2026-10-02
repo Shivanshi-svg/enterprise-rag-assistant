@@ -1,0 +1,12 @@
+[
+  {"question": "Within how many hours must a breach be reported to the authority?", "expected_doc": "breach_notification"},
+  {"question": "Do we have to tell affected people about a high risk breach?", "expected_doc": "breach_notification"},
+  {"question": "What does data minimisation require?", "expected_doc": "data_protection_principles"},
+  {"question": "How long can personal data be kept?", "expected_doc": "data_protection_principles"},
+  {"question": "Can a customer ask us to delete their data?", "expected_doc": "data_subject_rights"},
+  {"question": "In what format can someone receive their data for portability?", "expected_doc": "data_subject_rights"},
+  {"question": "When is a DPIA mandatory?", "expected_doc": "dpia_and_dpo"},
+  {"question": "Which organisations must appoint a data protection officer?", "expected_doc": "dpia_and_dpo"},
+  {"question": "What are standard contractual clauses used for?", "expected_doc": "international_transfers"},
+  {"question": "Is an adequacy decision needed to send data outside the EEA?", "expected_doc": "international_transfers"}
+]
